@@ -127,7 +127,7 @@ Las variables calculadas son aquellas que el dataset original no incluye pero qu
 - `es_salida_voluntaria` — separa fuga de talento (el empleado elige irse) de rotación gestionada (despido, fin de contrato, jubilación). Sin esta distinción, cualquier estrategia estaría mal dirigida.
 ---
 
-### BLOQUE 2 — Análisis por hipótesis en cascada 
+### BLOQUE 2 — Análisis según hipótesis 
 
 ---
 
