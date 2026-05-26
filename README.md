@@ -135,15 +135,15 @@ Las variables calculadas son aquellas que el dataset original no incluye pero qu
 
 Se crea la variable `año_fecha_salida` para analizar la evolución de las bajas a lo largo del tiempo.
 
-Como indicador principal se utiliza el **Turnover Rate**, con un benchmark de referencia del 15 % aplicado al último año con datos completos: 2025.
+Como indicador principal se utiliza el Turnover Rate, con un benchmark de referencia del 15 % aplicado al último año con datos completos: 2025.
 
-**Resultado: 5,33 %** — 16 bajas sobre una plantilla media de 300 empleados. Significativamente por debajo del benchmark, y los años anteriores muestran niveles igualmente reducidos.
+Resultado: 5,33 % — 16 bajas sobre una plantilla media de 300 empleados. Significativamente por debajo del benchmark, y los años anteriores muestran niveles igualmente reducidos.
 
 Sin embargo, al analizar los motivos de salida, la baja voluntaria es la causa predominante: 40 de las 88 bajas totales, superando al resto de motivos en prácticamente todos los años analizados. 
 
 2024 fue el año con mayor volumen de salidas; pero 2025 no parece presentar una situación preocupante.
 
-**Conclusión provisional:** no hay evidencias de un problema general de rotación. Aun así, el peso de las bajas voluntarias justifica seguir profundizando en el análisis.
+Conclusión provisional: no hay evidencias de un problema general de rotación. Aun así, el peso de las bajas voluntarias justifica seguir profundizando en el análisis.
 ---
 
 #### Hipótesis B — ¿Es Urgencias donde se pierde el talento?
@@ -160,7 +160,7 @@ Tampoco se identifican otros departamentos problemáticos. El máximo de bajas v
 
 Cabe matizar que los porcentajes pueden resultar engañosos: aunque las bajas voluntarias representan el 31,25% de las salidas en 2025, el conteo absoluto es de apenas 5 casos sobre una plantilla de 300 empleados. Un porcentaje alto sobre una base pequeña no equivale a un problema.
 
-Conclusión: no existe evidencia de un problema de rotación voluntaria en la organización. La tasa de turnover se mantiene muy por debajo del benchmark sectorial y las salidas voluntarias están dispersas, sin concentración significativa en ningún área.
+## En resumen, No existe evidencia de un problema de rotación voluntaria en la organización. La tasa de turnover se mantiene muy por debajo del benchmark sectorial y las salidas voluntarias están dispersas, sin concentración significativa en ningún área.
 
 ## Limitaciones del proyecto
 - 1. Dataset simulado
