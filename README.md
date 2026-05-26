@@ -160,7 +160,7 @@ Tampoco se identifican otros departamentos problemáticos. El máximo de bajas v
 
 Cabe matizar que los porcentajes pueden resultar engañosos: aunque las bajas voluntarias representan el 31,25% de las salidas en 2025, el conteo absoluto es de apenas 5 casos sobre una plantilla de 300 empleados. Un porcentaje alto sobre una base pequeña no equivale a un problema.
 
-## En resumen, No existe evidencia de un problema de rotación voluntaria en la organización. La tasa de turnover se mantiene muy por debajo del benchmark sectorial y las salidas voluntarias están dispersas, sin concentración significativa en ningún área.
+#### En resumen, No existe evidencia de un problema de rotación voluntaria en la organización. La tasa de turnover se mantiene muy por debajo del benchmark sectorial y las salidas voluntarias están dispersas, sin concentración significativa en ningún área.
 
 ## Limitaciones del proyecto
 - 1. Dataset simulado
