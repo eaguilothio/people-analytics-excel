@@ -46,6 +46,13 @@ La idea era tener suficiente información para poder hacerme hipótesis.
 - `hoja_trabajo` — Copia operativa donde se limpia, transforma y analiza.
 - `diccionario_datos` — Definición de cada variable: nombre, tipo, valores posibles y descripción.
 
+> **Colorear encabezados por tipo de dato** — facilita la lectura de un vistazo:
+> - Texto/ID: azul
+> - Categórico: azul claro
+> - Fecha: verde
+> - Numérico: naranja
+> - Calculado: gris
+
 ---
 
 ## El proceso analítico de principio a fin
@@ -110,9 +117,9 @@ Los tres casos se confirmaron con RRHH antes de actuar.
 
 #### Paso 7 — Variables calculadas
 
-- `antiguedad_meses` — el dataset original no calculaba la duración de los empleados que causaron baja. Sin esta variable no se puede responder cuánto tiempo aguanta la gente antes de irse. Se divide la diferencia de fechas entre 30,44 — media real de días por mes considerando años bisiestos — para evitar errores acumulativos en períodos largos.
-- `tramo_antiguedad` — trabajar con meses en bruto no tiene significado en RRHH. Cuatro tramos: `0-12m` (riesgo early attrition), `1-3a` (consolidación), `3-6a` (empleado consolidado), `+6a` (empleado senior).
-- `abandono_temprano` — marca si un empleado causó baja antes de cumplir 12 meses. Señal directa de problema de onboarding o de expectativas mal gestionadas.
+- `antiguedad_meses` — el dataset original no calculaba la duración de los empleados que causaron baja. Sin esta variable no se puede responder cuánto tiempo aguanta la gente antes de irse. Se divide la diferencia de fechas de salida y fechas de ingreso entre 30,44 — media real de días por mes: 30.44 = 365 / 12 —. Redondeamos a enteros, ya que trabajamos con meses completos porque es la unidad que tiene sentido para RRHH.
+- `tramo_antiguedad` — trabajar con meses no tiene significado en RRHH. Así que establecemos Cuatro tramos: `0-12m` (riesgo early attrition), `1-3a` (consolidación), `3-6a` (empleado consolidado), `+6a` (empleado senior).
+- `abandono_temprano` — Marca en respuesta binaria ( sí o no) si un empleado se fue antes de cumplir el primer año. 
 - `es_salida_voluntaria` — separa fuga de talento (el empleado elige irse) de rotación gestionada (despido, fin de contrato, jubilación). Sin esta distinción cualquier estrategia estaría mal dirigida.
 
 ---
