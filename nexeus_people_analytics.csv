@@ -1,0 +1,305 @@
+ID_Empleado,Departamento,Manager_ID,Es_Jefe,Tipo_Contrato,Modalidad,Turno,Fecha_Ingreso,Fecha_Salida,Estado,Antiguedad_Meses,Edad,Genero,Nivel_Educativo,Categoria_Profesional,Seniority,Banda_Salarial,Puntuacion_Desempeno,Horas_Extra_Mensuales,Absentismo_Dias_Año,Training_Completado_Pct,Satisfaccion_Onboarding,Engagement_Score,Motivo_Salida
+EMP-248,RADIOLOGIA,EMP-014,No,Guardia,Turno_Rotatorio,Mañana,03/05/2018,,Activo,85,51,Mujer,Grado_Enfermeria,Tecnico,Adjunto,Media,8.2,19,11,28,7.6,9.7,
+EMP-109,Reproduccion Asistida,EMP-019,No,Interinidad,Presencial,Tarde,2023-07-15,,Activo,22,36,Femenino,Medicina,Tecnico,Junior,Baja,5.7,9,5,60,7.0,6.2,
+EMP-288,RRHH,EMP-018,No,Indefinido,Presencial,Mañana,07/07/2018,22/01/2021,Baja,,62,hombre,Master,Administrativo,Senior,Baja,9.9,5,2,85,7.7,8.2,Jubilacion
+EMP-250,Ginecologia y Obstetricia,EMP-014,No,Indefinido,Presencial,Noche,09/10/2020,,Activo,55,55,Mujer,Master,Enfermero,Junior,Media,8.4,30,10,83,9.8,5.4,
+EMP-007,Reproduccion Asistida,,Si,Indefinido,PRESENCIAL,Mañana,04/09/2022,,Activo,32,35,Mujer,Medicina,Tecnico,Jefe_de_Servicio,Alta,5.3,10,8,73,NULL,4.5,
+EMP-185,Administracion,EMP-003,No,Temporal,Presencial,Mañana,11/03/2022,26/09/2024,Baja,,41,Masculino,FP_Sanitario,Administrativo,Senior,Media,8.0,5,2,95,7.5,7.4,Voluntaria
+EMP-047,Pediatria,EMP-018,No,Indefinido,PRESENCIAL,Rotatorio,07/07/2020,,Activo,58,17,mujer,Grado_Enfermeria,Enfermero,Adjunto,Baja,7.1,15,2,51,4.8,6.9,
+EMP-199,Pediatria,EMP-012,No,Temporal,Turno_Rotatorio,Rotatorio,12/11/2023,,Activo,18,50,mujer,Medicina,Enfermero,Senior,Alta,7.5,3,13,55,8.8,5.6,
+EMP-232,Radiologia,EMP-013,No,Indefinido,Presencial,Mañana,27/04/2019,,Activo,73,35,Mujer,FP_Sanitario,Tecnico,Adjunto,Media,5.4,19,11,51,9.3,6.6,
+EMP-148,Reproduccion Asistida,EMP-017,No,Indefinido,Turno Rotatorio,Mañana,2021-09-01,27/08/2022,Baja,,50,Hombre,FP_Sanitario,Medico,Jefe_de_Servicio,Media,7.3,23,8,85,7.8,4.4,Voluntaria
+EMP-166,Reproduccion Asistida,EMP-008,No,Interinidad,Presencial,Mañana,13/10/2019,04/06/2021,Baja,,38,Mujer,Medicina,Enfermero,Senior,Alta,7.5,21,7,68,9.0,5.9,Voluntaria
+EMP-154,Reproduccion Asistida,EMP-019,No,Indefinido,Turno_Rotatorio,Mañana,2022-06-18,,Activo,35,50,Mujer,Medicina,Enfermero,Junior,Media,6.7,7,9,74,4.5,9.6,
+EMP-259,Pediatria,EMP-001,No,Indefinido,Presencial,Mañana,22/02/2019,,Activo,75,51,Mujer,Medicina,Enfermero,Adjunto,Alta,9.1,3,2,62,6.6,7.3,
+EMP-076,URGENCIAS,EMP-002,No,Temporal,Turno_Rotatorio,Noche,2021-01-15,,Activo,52,58,Mujer,Medicina,Administrativo,Junior,Media,6.9,38,22,34,6.9,2.3,
+EMP-240,Radiología,EMP-017,No,Guardia,Presencial,Mañana,11/05/2018,,Activo,85,53,Mujer,FP_Sanitario,Administrativo,Senior,Alta,6.2,22,8,41,NULL,5.5,
+EMP-022,Urgencias,EMP-008,No,Interinidad,turno_rotatorio,Noche,2018-12-09,,Activo,78,62,Masculino,Master,Medico,Junior,Media,6.3,32,15,48,3.7,5.1,
+EMP-058,RRHH,EMP-001,No,Indefinido,PRESENCIAL,Mañana,11/07/2022,,Activo,34,37,Hombre,Grado_Enfermeria,Administrativo,Jefe_de_Servicio,Baja,9.1,18,5,50,NULL,6.8,
+EMP-010,Pediatría,,Si,Interinidad,PRESENCIAL,Mañana,05/12/2019,,Activo,66,28,Femenino,Medicina,Medico,Senior,Media,7.7,19,7,62,8.8,6.0,
+EMP-292,Ginecologia y Obstetricia,EMP-006,No,Interinidad,Presencial,Noche,05/01/2020,23/06/2022,Baja,,42,Hombre,Master,Medico,Senior,Media,4.9,18,12,65,NULL,3.9,Despido
+EMP-003,Pediatria,,Si,Temporal,Presencial,Mañana,02/06/2019,,Activo,72,28,Hombre,Medicina,Medico,Adjunto,Media,6.5,7,7,71,5.2,7.6,
+EMP-059,Radiologia,EMP-012,No,Indefinido,Presencial,Mañana,26/09/2019,,Activo,68,52,Mujer,Grado_Enfermeria,Auxiliar,Junior,Baja,6.9,28,6,27,NULL,7.2,
+EMP-032,Cirugia,EMP-006,No,Temporal,Presencial,Tarde,13/05/2021,,Activo,48,53,Hombre,Medicina,Medico,Adjunto,Media,9.9,10,1,31,8.3,6.0,
+EMP-030,Pediatria,EMP-012,No,Temporal,Presencial,Tarde,17/07/2018,,Activo,82,45,Mujer,Master,Medico,Senior,Alta,6.3,1,2,75,6.1,8.2,
+EMP-023,Med. Interna,EMP-004,No,Indefinido,Turno_Rotatorio,Tarde,24/08/2021,,Activo,45,41,Mujer,Medicina,Enfermero,Adjunto,Baja,8.1,7,3,99,5.7,9.0,
+EMP-088,Ginecologia y Obstetricia,EMP-020,No,Indefinido,Guardia_24h,Noche,2024-07-02,,Activo,10,34,M,Medicina,Enfermero,Adjunto,Media,5.8,16,12,66,10.0,4.6,
+EMP-054,Urgencias,EMP-007,No,Indefinido,Turno_Rotatorio,Tarde,28/02/2020,,Activo,63,25,Mujer,Grado_Enfermeria,Tecnico,Adjunto,Media,5.7,27,23,64,7.4,5.3,
+EMP-117,Traumatologia,EMP-002,No,Indefinido,Presencial,Tarde,19/02/2019,,Activo,75,54,Mujer,Medicina,Tecnico,Adjunto,Media,7.7,14,3,23,3.4,9.2,
+EMP-246,Traumatología,EMP-016,No,Interinidad,Presencial,Mañana,18/01/2018,,Activo,88,34,Mujer,Master,Medico,Jefe_de_Servicio,Directiva,9.5,3,5,70,8.5,10.0,
+EMP-277,Reproduccion Asistida,EMP-001,No,Indefinido,Guardia_24h,Mañana,2022-04-10,,Activo,37,31,Femenino,Medicina,Tecnico,Senior,Alta,7.6,16,6,58,9.6,6.7,
+EMP-299,Laboratorio,EMP-015,No,Indefinido,Presencial,Mañana,22/05/2018,,Activo,84,40,Mujer,Grado_Enfermeria,Enfermero,Junior,Baja,8.0,13,6,79,8.2,6.5,
+EMP-060,Ginecologia y Obs.,EMP-013,No,Interinidad,Presencial,Mañana,2023-06-07,04/11/2023,Baja,,32,Mujer,Medicina,Medico,Junior,Baja,8.1,7,5,100,5.9,6.6,
+EMP-181,Ginecologia y Obstetricia,EMP-016,No,Guardia,Turno_Rotatorio,Tarde,2018-12-19,,Activo,77,45,Hombre,Doctorado,Enfermero,Adjunto,Media,7.9,10,7,88,6.2,7.4,
+EMP-115,Reproduccion Asistida,EMP-010,No,Guardia,Turno_Rotatorio,Rotatorio,27/10/2024,,Activo,6,46,Hombre,Master,Medico,Senior,Baja,7.2,20,13,100,8.0,4.0,
+EMP-096,Medicina Interna,EMP-001,No,Temporal,Turno_Rotatorio,Rotatorio,30/05/2024,,Activo,11,32,Hombre,Doctorado,Medico,Senior,Alta,7.6,9,5,61,9.2,6.8,
+EMP-067,Ginecologia y Obstetricia,EMP-005,No,Indefinido,Presencial,Noche,22/05/2023,,Activo,23,46,Mujer,Medicina,Medico,Adjunto,Baja,5.0,27,16,75,5.9,4.6,
+EMP-097,Radiologia,EMP-014,No,Indefinido,Presencial,Mañana,13/01/2021,,Activo,52,52,Mujer,Master,Administrativo,Adjunto,Media,8.1,14,12,41,6.5,6.4,
+EMP-260,Ginecología y Obstetricia,EMP-009,No,Temporal,Turno_Rotatorio,Noche,15/07/2020,11/01/2021,Baja,,40,Femenino,Master,Medico,Senior,Media,6.9,26,18,67,7.0,5.1,Fin_Contrato
+EMP-170,medicina interna,EMP-015,No,Temporal,Presencial,Tarde,20/04/2020,11/11/2021,Baja,,41,Hombre,Medicina,Auxiliar,Senior,Media,8.2,8,0,40,NULL,7.6,Voluntaria
+EMP-011,Oncologia,,Si,Interinidad,PRESENCIAL,Tarde,05/08/2018,,Activo,82,39,Hombre,Master,Enfermero,Senior,Media,7.0,12,9,30,3.9,5.6,
+EMP-134,Urgencias,EMP-019,No,Interinidad,Guardia_24h,Noche,16/07/2021,04/10/2023,Baja,,29,Mujer,Grado_Enfermeria,Administrativo,Junior,Media,6.8,29,11,50,8.2,3.9,Despido
+EMP-113,Cirugia,EMP-009,No,Interinidad,Presencial,Mañana,04/11/2023,,Activo,18,55,Hombre,Doctorado,Medico,Junior,Media,6.0,10,11,14,4.7,6.3,
+EMP-201,Administracion,EMP-004,No,Indefinido,Presencial,Rotatorio,15/06/2020,,Activo,59,43,M,Grado_Enfermeria,Administrativo,Senior,Alta,7.8,16,4,97,5.7,6.2,
+EMP-019,Radiologia,,Si,Temporal,Turno_Rotatorio,Mañana,19/02/2021,,Activo,51,31,Mujer,Doctorado,Enfermero,Adjunto,Media,7.2,16,11,17,5.0,6.5,
+EMP-179,RRHH,EMP-013,No,Indefinido,Presencial,Mañana,2021-08-09,,Activo,45,30,Hombre,Master,Administrativo,Adjunto,Baja,6.7,9,5,71,4.8,7.1,
+EMP-090,ginecologia y obstetricia,EMP-009,No,Interinidad,Presencial,Mañana,2021-09-28,20/07/2023,Baja,,51,Mujer,Master,Tecnico,Adjunto,Alta,5.4,2,2,71,NULL,7.6,Jubilacion
+EMP-106,Urgencias,EMP-011,No,Interinidad,Guardia_24h,Tarde,2019-02-23,04/03/2023,Baja,,41,Hombre,Master,Medico,Adjunto,Baja,4.5,30,11,48,4.7,4.1,Voluntaria
+EMP-186,oncologia,EMP-006,No,Indefinido,Presencial,Rotatorio,02/01/2019,20/07/2021,Baja,,37,Hombre,Medicina,Enfermero,Senior,Alta,8.5,20,9,51,7.2,6.7,Jubilacion
+EMP-197,Administracion,EMP-012,No,Temporal,Presencial,Mañana,30/04/2019,,Activo,73,32,hombre,Master,Auxiliar,Jefe_de_Servicio,Media,6.4,11,5,66,7.9,8.1,
+EMP-138,Urgencias,EMP-018,No,Temporal,Guardia_24h,Mañana,10/02/2022,01/01/2024,Baja,,57,Hombre,Medicina,Medico,Senior,Alta,4.7,43,14,34,6.0,4.4,Voluntaria
+EMP-172,Oncología,EMP-020,No,Indefinido,Guardia_24h,Tarde,06/09/2018,,Activo,81,26,Mujer,Master,Enfermero,Senior,Alta,5.4,5,7,55,10.0,7.1,
+EMP-295,URGENCIAS,EMP-012,No,Interinidad,Guardia_24h,Mañana,15/05/2023,,Activo,24,51,Mujer,Medicina,Medico,Senior,Alta,4.6,28,22,29,3.1,5.5,
+EMP-226,Urgencias,EMP-014,No,Indefinido,Presencial,Tarde,01/07/2024,,Activo,10,34,Mujer,Medicina,Enfermero,Adjunto,Baja,6.9,28,15,42,4.6,4.6,
+EMP-245,reproduccion asistida,EMP-010,No,Indefinido,PRESENCIAL,Rotatorio,11/10/2024,,Activo,7,52,mujer,Medicina,Medico,Senior,Media,7.8,11,10,59,6.1,5.5,
+EMP-105,Med. Interna,EMP-018,No,Indefinido,Presencial,Mañana,18/11/2020,,Activo,54,49,Hombre,Master,Enfermero,Adjunto,Media,5.4,7,4,80,7.2,7.2,
+EMP-198,Cirugia,EMP-001,No,Indefinido,Presencial,Noche,28/07/2024,,Activo,9,44,Hombre,Medicina,Medico,Adjunto,Media,8.6,8,4,62,NULL,7.4,
+EMP-028,Laboratorio,EMP-018,No,Indefinido,turno_rotatorio,Rotatorio,12/07/2019,,Activo,70,40,Hombre,Medicina,Tecnico,Jefe_de_Servicio,Baja,8.6,14,2,74,6.2,7.0,
+EMP-009,traumatologia,,Si,Indefinido,Turno_Rotatorio,Rotatorio,2023-11-13,,Activo,18,55,Mujer,Master,Administrativo,Adjunto,Directiva,7.5,4,5,51,5.9,6.4,
+EMP-006,urgencias,,Si,Temporal,Guardia_24h,Rotatorio,26/12/2021,,Activo,41,53,Hombre,Grado_Enfermeria,Medico,Junior,Baja,7.8,38,17,24,2.8,4.9,
+EMP-210,Pediatria,EMP-018,No,Temporal,PRESENCIAL,Mañana,02/05/2022,24/10/2023,Baja,,32,H,Medicina,Tecnico,Senior,Alta,6.7,9,5,83,5.9,6.7,Fin_Contrato
+EMP-252,Reproduccion Asistida,EMP-017,No,Temporal,Turno_Rotatorio,Tarde,2020-05-01,08/08/2024,Baja,,56,Femenino,FP_Sanitario,Tecnico,Junior,Alta,7.6,4,9,85,NULL,4.8,Voluntaria
+EMP-104,Radiologia,EMP-012,No,Indefinido,Presencial,Rotatorio,19/07/2020,,Activo,58,55,Mujer,Master,Administrativo,Senior,Alta,7.4,21,5,39,8.1,7.4,
+EMP-140,Cirugía,EMP-010,No,Interinidad,presencial,Tarde,02/12/2022,,Activo,29,44,Hombre,Master,Enfermero,Senior,Media,7.3,15,6,25,6.8,9.7,
+EMP-063,Traumatologia,EMP-017,No,Interinidad,presencial,Noche,15/11/2022,04/11/2024,Baja,,36,Hombre,Master,Medico,Junior,Baja,7.9,10,3,100,5.6,6.4,Voluntaria
+EMP-196,Traumatologia,EMP-019,No,Temporal,Turno_Rotatorio,Mañana,08/07/2021,,Activo,46,55,Mujer,Master,Medico,Junior,Directiva,7.5,10,6,90,5.4,6.3,
+EMP-008,Traumatologia,,Si,Guardia,Presencial,Tarde,07/12/2019,,Activo,66,43,Mujer,Medicina,Medico,Senior,Media,8.7,16,0,53,5.0,7.3,
+EMP-219,Pediatria,EMP-001,No,Interinidad,Guardia 24h,Tarde,30/09/2020,,Activo,56,46,Hombre,Master,Medico,Adjunto,Baja,8.1,0,3,47,NULL,8.0,
+EMP-080,Administracion,EMP-020,No,Indefinido,Presencial,Tarde,25/12/2018,,Activo,77,34,Hombre,Master,Administrativo,Adjunto,Baja,8.6,8,7,69,5.4,6.6,
+EMP-236,Medicina Interna,EMP-019,No,Indefinido,Presencial,Mañana,02/12/2022,,Activo,29,27,Hombre,Doctorado,Medico,Senior,Alta,7.4,0,5,81,7.2,5.7,
+EMP-037,oncologia,EMP-019,No,Temporal,Guardia_24h,Mañana,14/07/2021,04/02/2023,Baja,,34,Hombre,Medicina,Medico,Adjunto,Baja,7.7,8,4,61,6.5,6.9,
+EMP-223,Ginecología y Obstetricia,EMP-005,No,Temporal,Presencial,Noche,05/11/2020,,Activo,54,35,Mujer,Master,Administrativo,Junior,Media,8.0,19,11,86,6.5,6.7,
+EMP-092,Pediatria,EMP-012,No,Indefinido,Turno_Rotatorio,Rotatorio,20/08/2021,18/12/2021,Baja,,26,No_binario,Master,Medico,Adjunto,Media,6.3,1,3,75,8.0,6.8,Fin_Contrato
+EMP-129,medicina interna,EMP-011,No,Temporal,turno_rotatorio,Rotatorio,01/11/2023,,Activo,18,53,Mujer,Medicina,Tecnico,Junior,Media,7.0,4,1,87,8.5,6.5,
+EMP-128,Reproduccion Asistida,EMP-009,No,Guardia,Presencial,Mañana,07/08/2022,27/07/2024,Baja,,32,Mujer,Grado_Enfermeria,Administrativo,Adjunto,Alta,6.5,6,4,84,10.0,4.9,Voluntaria
+EMP-039,Laboratorio,EMP-006,No,Indefinido,Presencial,Mañana,07/01/2020,,Activo,64,48,Mujer,Master,Medico,Adjunto,Baja,8.0,8,6,84,5.5,7.0,
+EMP-258,Radiologia,EMP-014,No,Interinidad,Presencial,Tarde,13/06/2023,03/05/2025,Baja,,27,Mujer,Master,Enfermero,Jefe_de_Servicio,Directiva,7.2,12,10,31,6.2,5.3,Despido
+EMP-021,Reproduccion Asistida,EMP-009,No,Interinidad,Turno_Rotatorio,Noche,09/06/2020,,Activo,59,29,Hombre,Medicina,Enfermero,Senior,Alta,7.2,4,7,84,6.9,4.5,
+EMP-224,Ginecologia y Obstetricia,EMP-008,No,Guardia,guardia_24h,Mañana,08/05/2018,22/01/2021,Baja,,43,Mujer,Master,Medico,Junior,Baja,9.6,0,7,59,5.4,5.7,Despido
+EMP-042,laboratorio,EMP-010,No,Temporal,presencial,Rotatorio,30/05/2023,,Activo,23,57,mujer,Master,Enfermero,Jefe_de_Servicio,Media,7.3,13,4,62,7.4,7.8,
+EMP-082,Reproduccion Asistida,EMP-015,No,Indefinido,PRESENCIAL,Mañana,13/04/2020,,Activo,61,30,Mujer,Master,Tecnico,Senior,Alta,6.9,13,12,51,6.7,5.6,
+EMP-228,Urgencias,EMP-011,No,Guardia,Turno_Rotatorio,Rotatorio,2023-12-11,,Activo,17,54,Mujer,FP_Sanitario,Auxiliar,Jefe_de_Servicio,Media,6.7,43,15,25,6.1,4.5,
+EMP-264,Ginecologia y Obstetricia,EMP-019,No,Interinidad,Guardia_24h,Tarde,15/04/2019,,Activo,73,27,Mujer,Doctorado,Medico,Senior,Media,6.5,7,3,51,7.2,6.9,
+EMP-243,Reproduccion Asistida,EMP-010,No,Temporal,Turno_Rotatorio,Rotatorio,09/08/2019,25/05/2022,Baja,,54,Mujer,Medicina,Tecnico,Adjunto,Baja,7.9,19,5,72,NULL,6.0,Voluntaria
+EMP-203,Ginecologia y Obstetricia,EMP-014,No,Guardia,Turno_Rotatorio,Mañana,2022-02-24,,Activo,39,28,Femenino,Doctorado,Tecnico,Junior,Media,6.7,13,7,70,8.3,6.6,
+EMP-274,Ginecología y Obstetricia,EMP-006,No,Guardia,Turno_Rotatorio,Noche,04/12/2019,,Activo,66,42,Mujer,Master,Medico,Senior,Media,7.8,29,21,91,NULL,3.7,
+EMP-044,Urgencias,EMP-017,No,Indefinido,Guardia_24h,Tarde,07/02/2023,,Activo,27,62,Mujer,Master,Enfermero,Jefe_de_Servicio,Directiva,7.7,22,17,55,5.3,2.6,
+EMP-122,Pediatría,EMP-002,No,Interinidad,Turno_Rotatorio,Mañana,2024-05-30,,Activo,11,28,Hombre,Medicina,Medico,Adjunto,Media,8.4,15,5,71,8.8,6.5,
+EMP-150,Cirugia,EMP-018,No,Interinidad,Presencial,Tarde,30/06/2024,,Activo,10,60,Mujer,Master,Medico,Adjunto,Media,7.2,0,4,17,5.4,4.9,
+EMP-155,Traumatologia,EMP-011,No,Indefinido,Turno_Rotatorio,Rotatorio,12/08/2021,23/04/2025,Baja,,52,Hombre,Medicina,Medico,Senior,Alta,8.9,12,3,68,7.8,6.7,Jubilacion
+EMP-178,Traumatologia,EMP-019,No,Guardia,Presencial,Tarde,07/02/2023,,Activo,27,47,No_binario,Master,Medico,Adjunto,Baja,5.9,9,10,86,NULL,9.0,
+EMP-221,Traumatologia,EMP-004,No,Indefinido,Turno_Rotatorio,Tarde,2021-06-27,,Activo,47,51,Mujer,Medicina,Enfermero,Adjunto,Baja,8.0,6,2,79,6.0,6.3,
+EMP-123,Laboratorio,EMP-015,No,Indefinido,Turno_Rotatorio,Mañana,2024-06-29,26/03/2025,Baja,,33,Femenino,Master,Tecnico,Adjunto,Baja,6.6,9,3,89,NULL,7.7,Fin_Contrato
+EMP-286,Radiologia,EMP-011,No,Indefinido,Turno_Rotatorio,Mañana,28/01/2019,,Activo,76,56,Mujer,Grado_Enfermeria,Tecnico,Adjunto,Media,6.7,17,7,12,6.8,6.0,
+EMP-262,Pediatria,EMP-004,No,Indefinido,Presencial,Mañana,2021-01-06,,Activo,52,35,Hombre,Master,Medico,Adjunto,Media,6.6,16,9,72,8.8,5.7,
+EMP-102,Traumatologia,EMP-006,No,Indefinido,Presencial,Noche,2024-08-12,09/04/2025,Baja,,38,Hombre,Master,Medico,Senior,Media,8.0,10,9,85,4.8,7.0,Voluntaria
+EMP-169,Cirugía,EMP-020,No,Indefinido,presencial,Rotatorio,28/06/2020,,Activo,59,32,Hombre,Master,Tecnico,Adjunto,Media,8.4,6,6,29,5.6,7.6,
+EMP-133,Reproduccion Asistida,EMP-020,No,Interinidad,Guardia_24h,Mañana,05/11/2019,,Activo,67,52,Mujer,Doctorado,Tecnico,Adjunto,Baja,6.7,23,6,69,8.2,6.7,
+EMP-190,Pediatria,EMP-009,No,Indefinido,Presencial,Mañana,2020-10-06,02/08/2021,Baja,,25,Mujer,Medicina,Medico,Senior,Alta,6.8,13,4,45,8.5,6.0,Voluntaria
+EMP-078,Pediatría,EMP-003,No,Indefinido,Presencial,Mañana,09/10/2022,27/12/2024,Baja,,58,Mujer,Medicina,Auxiliar,Jefe_de_Servicio,Baja,6.3,10,9,97,5.9,6.9,Voluntaria
+EMP-124,Ginecologia y Obstetricia,EMP-010,No,Indefinido,Turno_Rotatorio,Tarde,02/11/2022,,Activo,30,59,Mujer,Medicina,Medico,Junior,Media,6.9,17,7,70,NULL,4.8,
+EMP-056,Urgencias,EMP-019,No,Interinidad,Guardia_24h,Rotatorio,26/04/2021,,Activo,49,44,Mujer,Grado_Enfermeria,Medico,Adjunto,Baja,6.4,30,19,32,6.0,2.0,
+EMP-018,Urgencias,,Si,Temporal,Guardia_24h,Tarde,10/06/2021,27/12/2023,Baja,,29,hombre,Master,Medico,Adjunto,Baja,5.3,23,14,59,4.9,3.3,Fin_Contrato
+EMP-005,Administracion,,Si,Indefinido,Presencial,Tarde,28/04/2021,,Activo,49,45,Mujer,FP_Sanitario,Administrativo,Senior,Baja,7.4,5,5,65,9.2,8.0,
+EMP-143,Medicina Interna,EMP-011,No,Indefinido,Presencial,Rotatorio,08/03/2019,,Activo,75,47,Mujer,Medicina,Auxiliar,Adjunto,Baja,6.1,13,0,44,10.0,7.4,
+EMP-225,Pediatria,EMP-012,No,Indefinido,Turno_Rotatorio,Tarde,20/02/2021,,Activo,51,48,Mujer,Medicina,Enfermero,Senior,Media,8.3,18,8,71,NULL,4.2,
+EMP-031,Pediatria,EMP-007,No,Temporal,Presencial,Noche,01/09/2018,18/05/2021,Baja,,40,Mujer,Master,Tecnico,Adjunto,Baja,8.3,8,7,72,5.9,7.7,Voluntaria
+EMP-294,Radiologia,EMP-010,No,Indefinido,Presencial,Mañana,17/01/2020,,Activo,64,44,Femenino,Medicina,Enfermero,Adjunto,Media,7.2,4,8,43,NULL,5.2,
+EMP-234,Ginecologia y Obstetricia,EMP-011,No,Interinidad,Presencial,Mañana,16/06/2024,13/03/2025,Baja,,32,Mujer,Master,Medico,Senior,Media,6.2,6,5,77,6.2,7.9,Voluntaria
+EMP-142,Ginecologia y Obstetricia,EMP-001,No,Guardia,Turno_Rotatorio,Rotatorio,26/05/2022,,Activo,35,33,M,Doctorado,Medico,Senior,Alta,5.9,13,6,86,7.1,5.3,
+EMP-265,Ginecologia y Obstetricia,EMP-005,No,Indefinido,Guardia_24h,Noche,12/07/2023,,Activo,22,60,mujer,Medicina,Enfermero,Adjunto,Media,3.2,19,9,81,NULL,6.2,
+EMP-052,Med. Interna,EMP-003,No,Temporal,PRESENCIAL,Mañana,26/11/2020,21/03/2022,Baja,,33,Mujer,Master,Medico,Junior,Alta,6.6,9,0,92,9.0,7.5,Fin_Contrato
+EMP-261,Pediatria,EMP-020,No,Indefinido,Presencial,Tarde,16/02/2022,07/03/2024,Baja,,54,Mujer,Doctorado,Enfermero,Jefe_de_Servicio,Directiva,8.9,8,11,62,6.7,6.0,
+EMP-285,laboratorio,EMP-016,No,Indefinido,Guardia_24h,Noche,01/02/2023,,Activo,27,60,Mujer,Medicina,Enfermero,Junior,Media,5.0,6,0,81,NULL,7.1,
+EMP-247,Traumatologia,EMP-016,No,Indefinido,presencial,Mañana,20/04/2019,30/11/2022,Baja,,56,Hombre,Medicina,Tecnico,Adjunto,Alta,7.7,3,7,58,7.5,6.1,Voluntaria
+EMP-112,Traumatologia,EMP-016,No,Temporal,Guardia_24h,Mañana,21/12/2022,18/08/2023,Baja,,41,Mujer,Medicina,Medico,Adjunto,Media,6.5,14,6,69,7.5,7.5,Despido
+EMP-229,Cirugia,EMP-005,No,Indefinido,Turno_Rotatorio,Rotatorio,16/02/2018,07/03/2020,Baja,,44,Mujer,Master,Medico,Senior,Directiva,8.9,15,4,19,NULL,6.9,Voluntaria
+EMP-279,Reproducción Asistida,EMP-005,No,Temporal,Guardia_24h,Tarde,26/04/2021,,Activo,49,40,Mujer,FP_Sanitario,Medico,Junior,Baja,8.7,9,10,100,5.8,4.0,
+EMP-173,Cirugia,EMP-007,No,Indefinido,Turno_Rotatorio,Tarde,06/11/2024,06/03/2025,Baja,,45,Mujer,Medicina,Medico,Senior,Alta,8.7,3,7,15,7.8,7.6,Voluntaria
+EMP-231,Medicina Interna,EMP-002,No,Indefinido,Presencial,Rotatorio,07/02/2023,,Activo,27,34,Mujer,Medicina,Medico,Adjunto,Alta,6.6,4,2,72,7.5,5.6,
+EMP-291,Laboratorio,EMP-007,No,Temporal,Presencial,Tarde,02/01/2018,,Activo,89,56,Hombre,Master,Medico,Adjunto,Media,9.1,11,5,61,NULL,7.4,
+EMP-041,administracion,EMP-015,No,Temporal,Presencial,Tarde,13/05/2023,,Activo,24,60,Hombre,Master,Administrativo,Senior,Alta,9.1,7,4,96,7.6,8.4,
+EMP-192,Medicina Interna,EMP-019,No,Indefinido,Turno_Rotatorio,Tarde,06/09/2020,05/12/2020,Baja,,48,mujer,Medicina,Medico,Adjunto,Baja,6.9,0,1,68,8.5,5.8,
+EMP-276,Laboratorio,EMP-017,No,Indefinido,Presencial,Tarde,18/03/2023,13/12/2023,Baja,,47,Mujer,FP_Sanitario,Tecnico,Junior,Baja,6.4,15,7,57,3.6,8.3,Voluntaria
+EMP-282,Ginecologia y Obstetricia,EMP-005,No,Interinidad,Presencial,Tarde,31/08/2020,,Activo,57,58,Mujer,Master,Medico,Senior,Directiva,5.7,12,3,83,7.3,4.9,
+EMP-268,Cirugia,EMP-003,No,Indefinido,Turno_Rotatorio,Mañana,09/08/2018,,Activo,82,27,Hombre,Master,Medico,Senior,Media,8.0,8,10,24,7.5,5.6,
+EMP-015,administracion,,Si,Indefinido,Turno_Rotatorio,Noche,16/11/2020,,Activo,54,36,Hombre,FP_Sanitario,Administrativo,Adjunto,Media,7.9,12,0,66,7.4,6.6,
+EMP-193,Administracion,EMP-018,No,Indefinido,Presencial,Rotatorio,21/07/2020,,Activo,58,34,Mujer,Master,Auxiliar,Jefe_de_Servicio,Baja,9.4,10,3,69,7.7,6.0,
+EMP-017,traumatologia,,Si,Indefinido,Presencial,Mañana,2018-10-31,24/03/2020,Baja,,26,Masculino,Medicina,Medico,Adjunto,Media,8.2,6,0,98,8.4,8.6,Voluntaria
+EMP-139,ginecologia y obstetricia,EMP-016,No,Indefinido,Presencial,Tarde,23/02/2021,04/03/2025,Baja,,39,Hombre,Master,Enfermero,Adjunto,Baja,10.0,8,1,58,8.9,4.9,Fin_Contrato
+EMP-289,Radiologia,EMP-009,No,Indefinido,Presencial,Noche,30/09/2024,29/12/2024,Baja,,51,Hombre,Medicina,Administrativo,Senior,Media,6.5,18,4,30,5.5,5.4,Voluntaria
+EMP-118,Ginecologia y Obstetricia,EMP-018,No,Guardia,Presencial,Tarde,22/03/2023,,Activo,25,62,hombre,Master,Medico,Adjunto,Media,8.1,2,6,85,8.1,7.5,
+EMP-130,URGENCIAS,EMP-015,No,Indefinido,Guardia_24h,Noche,2021-06-14,,Activo,47,33,Hombre,Master,Medico,Jefe_de_Servicio,Alta,5.3,15,7,45,NULL,4.8,
+EMP-070,Traumatologia,EMP-003,No,Indefinido,presencial,Rotatorio,22/07/2018,,Activo,82,38,H,Medicina,Medico,Junior,Media,7.6,10,6,66,6.1,7.4,
+EMP-013,Radiologia,,Si,Temporal,Presencial,Mañana,28/03/2021,,Activo,50,39,M,Medicina,Tecnico,Junior,Alta,7.5,14,2,55,NULL,7.4,
+EMP-064,Administracion,EMP-014,No,Indefinido,Turno_Rotatorio,Mañana,22/10/2020,,Activo,55,27,mujer,Master,Medico,Jefe_de_Servicio,Media,7.8,15,6,78,8.5,8.0,
+EMP-040,Med. Interna,EMP-011,No,Temporal,Presencial,Mañana,2020-04-06,,Activo,61,32,Mujer,Medicina,Medico,Junior,Media,8.4,12,1,68,7.5,6.2,
+EMP-024,Ginecologia y Obstetricia,EMP-006,No,Interinidad,Turno_Rotatorio,Mañana,14/04/2021,04/04/2023,Baja,,33,Mujer,Medicina,Medico,Adjunto,Media,10.0,14,7,79,6.8,7.7,Fin_Contrato
+EMP-042,laboratorio,EMP-010,No,Temporal,presencial,Rotatorio,30/05/2023,,Activo,23,57,mujer,Master,Enfermero,Jefe_de_Servicio,Media,7.3,13,4,62,7.4,7.8,
+EMP-244,Traumatologia,EMP-017,No,Indefinido,Presencial,Rotatorio,14/10/2020,,Activo,55,57,Mujer,Medicina,Administrativo,Adjunto,Media,7.8,14,4,81,NULL,7.8,
+EMP-074,Medicina Interna,EMP-018,No,Interinidad,Guardia_24h,Mañana,23/10/2021,15/02/2023,Baja,,46,Mujer,Medicina,Auxiliar,Adjunto,Baja,8.4,11,0,75,4.9,7.3,Fin_Contrato
+EMP-220,Pediatría,EMP-012,No,Interinidad,PRESENCIAL,Tarde,2024-09-25,,Activo,7,33,Mujer,Master,Enfermero,Junior,Alta,6.5,6,5,79,9.8,7.1,
+EMP-073,Urgencias,EMP-007,No,Guardia,Turno_Rotatorio,Noche,14/11/2023,,Activo,18,57,Mujer,Doctorado,Medico,Senior,Media,3.6,27,6,20,5.6,2.6,
+EMP-094,Radiologia,EMP-008,No,Interinidad,Turno_Rotatorio,Mañana,11/11/2023,,Activo,18,59,Mujer,Grado_Enfermeria,Tecnico,Adjunto,Media,6.0,16,9,34,7.8,7.3,
+EMP-087,Administración,EMP-002,No,Temporal,Turno_Rotatorio,Tarde,07/04/2024,,Activo,13,29,Hombre,FP_Sanitario,Administrativo,Jefe_de_Servicio,Media,6.2,8,4,76,7.1,9.0,
+EMP-230,Urgencias,EMP-011,No,Indefinido,turno_rotatorio,Noche,03/12/2024,,Activo,5,34,M,Grado_Enfermeria,Tecnico,Junior,Media,6.4,38,5,35,5.0,2.4,
+EMP-095,Oncologia,EMP-019,No,Indefinido,Turno_Rotatorio,Mañana,27/04/2019,24/10/2019,Baja,,44,Mujer,Master,Medico,Senior,Media,7.3,10,5,20,7.0,6.1,Fin_Contrato
+EMP-204,Cirugia,EMP-006,No,Interinidad,Turno_Rotatorio,Tarde,26/07/2018,,Activo,82,30,Hombre,Medicina,Medico,Adjunto,Media,7.9,7,6,10,5.3,5.7,
+EMP-001,Pediatria,,Si,Indefinido,PRESENCIAL,Mañana,12/03/2022,,Activo,38,56,Mujer,Grado_Enfermeria,Enfermero,Senior,Alta,8.9,14,6,94,8.2,7.4,
+EMP-029,Pediatria,EMP-006,No,Indefinido,PRESENCIAL,Tarde,21/10/2020,,Activo,55,44,No_binario,Medicina,Enfermero,Senior,Baja,8.9,14,1,74,7.0,6.9,
+EMP-145,Pediatria,EMP-016,No,Interinidad,Presencial,Tarde,11/03/2022,,Activo,38,32,Mujer,Medicina,Enfermero,Senior,Media,4.4,18,3,72,5.5,7.7,
+EMP-202,Medicina Interna,EMP-018,No,Temporal,Presencial,Mañana,28/12/2020,,Activo,53,52,Mujer,Medicina,Medico,Adjunto,Media,7.9,3,1,89,10.0,7.2,
+EMP-147,Cirugia,EMP-010,No,Indefinido,turno_rotatorio,Tarde,16/06/2020,,Activo,59,34,hombre,Master,Medico,Senior,Media,8.4,15,8,30,7.3,7.6,
+EMP-086,Cirugia,EMP-003,No,Indefinido,Presencial,Mañana,2024-11-08,,Activo,6,36,Masculino,Medicina,Medico,Senior,Directiva,6.8,18,1,47,7.8,7.5,
+EMP-093,Pediatria,EMP-017,No,Temporal,Turno_Rotatorio,Tarde,16/05/2023,12/11/2023,Baja,,53,Mujer,Medicina,Enfermero,Senior,Baja,6.8,11,4,71,5.9,8.7,Voluntaria
+EMP-149,Traumatología,EMP-014,No,Indefinido,Presencial,Noche,29/04/2020,,Activo,61,40,Mujer,Master,Auxiliar,Adjunto,Baja,7.1,10,8,56,NULL,7.2,
+EMP-098,Ginecologia y Obstetricia,EMP-013,No,Temporal,Turno_Rotatorio,Noche,30/03/2021,,Activo,50,37,Mujer,Master,Medico,Senior,Alta,6.8,25,13,71,6.7,2.3,
+EMP-161,Traumatologia,EMP-003,No,Temporal,Turno_Rotatorio,Rotatorio,14/12/2019,03/03/2022,Baja,,31,Hombre,Master,Auxiliar,Adjunto,Baja,9.8,6,0,69,7.1,7.7,Voluntaria
+EMP-071,Ginecología y Obstetricia,EMP-011,No,Interinidad,Turno_Rotatorio,Rotatorio,18/08/2023,,Activo,21,41,Mujer,Medicina,Medico,Senior,Media,8.9,8,2,68,NULL,6.5,
+EMP-242,RRHH,EMP-001,No,Indefinido,Turno_Rotatorio,Rotatorio,15/01/2022,,Activo,40,36,Hombre,Master,Administrativo,Adjunto,Baja,7.0,8,4,98,6.9,8.0,
+EMP-207,Urgencias,EMP-020,No,Indefinido,Guardia_24h,Tarde,04/06/2024,,Activo,11,46,Femenino,Medicina,Enfermero,Senior,Alta,5.7,9,10,35,1.2,3.2,
+EMP-273,Ginecologia y Obstetricia,EMP-012,No,Temporal,Presencial,Mañana,10/06/2019,,Activo,72,54,Mujer,Doctorado,Tecnico,Senior,Alta,6.9,13,5,66,7.0,7.8,
+EMP-227,cirugia,EMP-012,No,Temporal,PRESENCIAL,Tarde,23/11/2019,16/05/2021,Baja,,25,Hombre,Master,Medico,Senior,Alta,6.2,12,2,59,4.4,7.2,Fin_Contrato
+EMP-177,Cirugia,EMP-016,No,Guardia,Presencial,Tarde,10/10/2023,,Activo,19,48,Hombre,Master,Enfermero,Adjunto,Baja,5.5,14,3,40,NULL,5.6,
+EMP-297,Radiología,EMP-017,No,Indefinido,Presencial,Tarde,26/04/2022,,Activo,36,57,Mujer,Grado_Enfermeria,Tecnico,Adjunto,Media,7.1,21,9,67,8.6,6.3,
+EMP-127,Administración,EMP-004,No,Indefinido,Guardia_24h,Tarde,17/11/2022,,Activo,30,32,Mujer,Master,Administrativo,Adjunto,Directiva,6.0,15,2,72,6.2,5.5,
+EMP-239,administracion,EMP-014,No,Interinidad,Presencial,Tarde,09/07/2024,,Activo,10,42,Hombre,FP_Sanitario,Administrativo,Senior,Media,8.8,9,0,87,5.2,6.0,
+EMP-241,Medicina Interna,EMP-015,No,Interinidad,Presencial,Mañana,31/03/2024,,Activo,13,62,Hombre,Master,Medico,Senior,Media,7.5,7,7,63,7.5,7.5,
+EMP-167,Pediatria,EMP-003,No,Indefinido,presencial,Mañana,29/03/2024,,Activo,13,52,Mujer,Medicina,Medico,Senior,Directiva,8.9,17,5,74,6.9,7.0,
+EMP-263,Medicina Interna,EMP-004,No,Indefinido,Presencial,Mañana,13/11/2020,10/08/2021,Baja,,57,Hombre,Master,Medico,Senior,Media,8.5,9,2,49,NULL,8.2,
+EMP-257,Pediatría,EMP-003,No,Indefinido,Presencial,Mañana,18/07/2018,22/02/2023,Baja,,48,Mujer,Medicina,Medico,Adjunto,Media,8.0,4,4,58,8.5,7.1,Voluntaria
+EMP-046,Traumatologia,EMP-008,No,Interinidad,Turno_Rotatorio,Tarde,2023-01-12,06/05/2024,Baja,,46,Hombre,Master,Tecnico,Senior,Alta,8.8,5,7,80,5.4,7.3,Despido
+EMP-272,Administración,EMP-013,No,Indefinido,Turno_Rotatorio,Rotatorio,26/10/2018,,Activo,79,59,Mujer,Master,Administrativo,Senior,Baja,8.6,7,2,79,6.9,6.4,
+EMP-171,Cirugia,EMP-010,No,Indefinido,turno_rotatorio,Mañana,29/08/2020,,Activo,57,37,Hombre,Medicina,Enfermero,Senior,Alta,7.5,4,3,48,NULL,6.8,
+EMP-068,Oncologia,EMP-007,No,Temporal,Turno_Rotatorio,Rotatorio,23/05/2021,,Activo,48,45,Mujer,Medicina,Administrativo,Adjunto,Media,6.2,14,3,43,7.6,4.6,
+EMP-208,Urgencias,EMP-005,No,Interinidad,Guardia_24h,Mañana,2018-12-24,,Activo,77,37,Mujer,Medicina,Medico,Senior,Alta,6.3,25,19,42,NULL,7.5,
+EMP-085,Urgencias,EMP-014,No,Interinidad,Turno_Rotatorio,Mañana,04/07/2020,,Activo,59,38,Mujer,Master,Auxiliar,Junior,Baja,5.9,29,21,47,5.4,2.8,
+EMP-187,Urgencias,EMP-010,No,Guardia,Guardia_24h,Rotatorio,14/11/2018,,Activo,78,58,Mujer,Medicina,Enfermero,Adjunto,Media,8.1,40,22,26,NULL,2.7,
+EMP-298,Traumatologia,EMP-019,No,Temporal,Turno_Rotatorio,Mañana,15/01/2018,,Activo,89,60,Mujer,Medicina,Medico,Senior,Baja,7.6,12,9,60,5.8,8.4,
+EMP-055,Ginecologia y Obstetricia,EMP-013,No,Indefinido,Presencial,Rotatorio,17/06/2021,,Activo,47,53,Mujer,Master,Medico,Adjunto,Baja,9.0,8,8,64,6.8,8.8,
+EMP-287,Ginecologia y Obstetricia,EMP-015,No,Temporal,Turno_Rotatorio,Tarde,2019-09-10,,Activo,68,37,Mujer,Master,Enfermero,Jefe_de_Servicio,Alta,6.5,13,0,71,5.3,8.2,
+EMP-015,administracion,,Si,Indefinido,Turno_Rotatorio,Noche,16/11/2020,,Activo,54,36,Hombre,FP_Sanitario,Administrativo,Adjunto,Media,7.9,12,0,66,7.4,6.6,
+EMP-036,Ginecologia y Obstetricia,EMP-010,No,Interinidad,turno_rotatorio,Tarde,09/08/2018,,Activo,82,32,Mujer,Medicina,Tecnico,Jefe_de_Servicio,Directiva,7.7,10,2,70,7.5,6.8,
+EMP-065,Reproduccion Asistida,EMP-017,No,Indefinido,Turno_Rotatorio,Rotatorio,01/02/2019,,Activo,76,43,Mujer,Medicina,Tecnico,Senior,Alta,5.5,25,5,64,5.3,5.1,
+EMP-216,Pediatría,EMP-019,No,Temporal,Turno_Rotatorio,Mañana,31/01/2018,31/05/2018,Baja,,54,H,Medicina,Auxiliar,Senior,Baja,6.0,0,3,41,6.3,6.7,Voluntaria
+EMP-084,Ginecologia y Obstetricia,EMP-010,No,Indefinido,Turno_Rotatorio,Noche,2020-03-28,,Activo,62,58,Mujer,Medicina,Auxiliar,Adjunto,Baja,7.4,15,3,45,7.5,2.4,
+EMP-072,Ginecologia y Obstetricia,EMP-001,No,Temporal,Presencial,Tarde,13/02/2018,09/04/2019,Baja,,40,Mujer,Master,Medico,Adjunto,Baja,6.7,0,5,58,5.9,6.7,Jubilacion
+EMP-176,Oncologia,EMP-004,No,Indefinido,Presencial,Mañana,19/07/2022,13/08/2023,Baja,,40,Mujer,Medicina,Medico,Adjunto,Media,7.5,13,14,35,6.3,5.4,Voluntaria
+EMP-290,Traumatologia,EMP-017,No,Temporal,Turno_Rotatorio,Mañana,08/10/2022,,Activo,31,47,Hombre,Medicina,Medico,Senior,Alta,7.7,7,1,64,7.1,8.3,
+EMP-126,Administracion,EMP-010,No,Indefinido,Guardia_24h,Tarde,04/04/2023,23/04/2025,Baja,,44,Hombre,Grado_Enfermeria,Auxiliar,Adjunto,Alta,8.2,7,1,81,7.0,6.1,Despido
+EMP-137,Traumatologia,EMP-010,No,Indefinido,Turno_Rotatorio,Noche,11/07/2018,,Activo,83,31,Mujer,Medicina,Medico,Junior,Media,8.1,6,6,71,NULL,6.5,
+EMP-066,Ginecologia y Obstetricia,EMP-017,No,Temporal,Presencial,Noche,04/12/2019,21/06/2022,Baja,,49,Mujer,Medicina,Medico,Adjunto,Baja,5.4,16,3,77,6.4,6.1,Voluntaria
+EMP-050,Ginecologia y Obstetricia,EMP-013,No,Indefinido,Presencial,Noche,2021-06-25,,Activo,47,47,M,Medicina,Medico,Adjunto,Alta,7.6,14,6,77,7.2,4.8,
+EMP-182,Reproducción Asistida,EMP-005,No,Interinidad,Presencial,Tarde,11/11/2018,,Activo,79,48,Mujer,Master,Enfermero,Junior,Media,7.7,15,7,71,8.4,5.8,
+EMP-267,Ginecologia y Obstetricia,EMP-005,No,Interinidad,Presencial,Rotatorio,05/08/2020,03/12/2020,Baja,,43,Mujer,Master,Enfermero,Junior,Media,6.3,7,1,61,NULL,6.2,Voluntaria
+EMP-043,Ginecologia y Obstetricia,EMP-019,No,Indefinido,Presencial,Rotatorio,28/02/2018,,Activo,87,44,Mujer,Master,Medico,Adjunto,Alta,7.0,13,7,68,8.2,8.4,
+EMP-160,Ginecologia y Obstetricia,EMP-004,No,Temporal,Turno_Rotatorio,Mañana,05/04/2021,,Activo,49,30,No_binario,Master,Enfermero,Adjunto,Media,8.6,16,1,88,7.7,6.8,
+EMP-034,Oncología,EMP-016,No,Indefinido,Presencial,Mañana,24/05/2020,,Activo,60,31,Hombre,Medicina,Administrativo,Senior,Directiva,7.5,20,3,26,5.1,6.0,
+EMP-025,Cirugia,EMP-014,No,Interinidad,Presencial,Tarde,19/01/2018,,Activo,88,38,Mujer,Doctorado,Medico,Junior,Media,7.1,9,6,27,6.5,6.9,
+EMP-280,Med. Interna,EMP-006,No,Temporal,presencial,Rotatorio,24/08/2022,,Activo,32,33,Mujer,Medicina,Auxiliar,Adjunto,Baja,7.6,0,4,69,8.3,6.9,
+EMP-081,RRHH,EMP-014,No,Indefinido,Guardia_24h,Mañana,03/01/2023,02/06/2023,Baja,,26,Hombre,Master,Administrativo,Adjunto,Media,8.9,3,4,58,10.0,7.8,Voluntaria
+EMP-116,Pediatria,EMP-003,No,Indefinido,Turno_Rotatorio,Tarde,31/01/2021,22/03/2023,Baja,,59,Mujer,Master,Enfermero,Senior,Media,6.7,1,6,73,NULL,7.2,Voluntaria
+EMP-077,Pediatria,EMP-012,No,Guardia,Presencial,Tarde,12/07/2021,,Activo,46,45,Femenino,Medicina,Medico,Adjunto,Baja,7.8,2,4,79,6.5,7.0,
+EMP-045,Reproducción Asistida,EMP-007,No,Interinidad,Presencial,Mañana,09/12/2018,,Activo,78,41,Mujer,Doctorado,Tecnico,Junior,Media,5.1,14,6,57,7.6,6.3,
+EMP-165,PEDIATRIA,EMP-004,No,Indefinido,Turno_Rotatorio,Mañana,21/01/2023,14/06/2024,Baja,,34,Mujer,Medicina,Medico,Adjunto,Media,6.7,9,13,70,5.8,7.0,Despido
+EMP-135,Administracion,EMP-005,No,Guardia,presencial,Mañana,21/09/2019,,Activo,68,43,Mujer,Master,Auxiliar,Jefe_de_Servicio,Baja,8.4,11,0,67,7.3,8.4,
+EMP-014,Reproducción Asistida,,Si,Indefinido,Presencial,Rotatorio,2019-09-02,,Activo,69,44,Hombre,Grado_Enfermeria,Tecnico,Junior,Media,7.1,15,9,59,NULL,2.7,
+EMP-114,Ginecologia y Obstetricia,EMP-004,No,Indefinido,Presencial,Tarde,13/10/2022,,Activo,31,49,Mujer,Medicina,Medico,Adjunto,Baja,9.1,8,3,83,4.3,7.0,
+EMP-251,Traumatologia,EMP-009,No,Indefinido,Presencial,Rotatorio,29/03/2019,21/07/2020,Baja,,59,Hombre,Master,Administrativo,Jefe_de_Servicio,Directiva,8.2,6,6,77,7.6,6.4,Jubilacion
+EMP-101,Oncologia,EMP-019,No,Indefinido,Presencial,Noche,07/09/2023,,Activo,20,45,Hombre,Medicina,Medico,Senior,Alta,6.3,9,10,38,8.9,7.1,
+EMP-270,ginecologia y obstetricia,EMP-010,No,Indefinido,Presencial,Noche,16/12/2018,29/04/2022,Baja,,38,Mujer,Master,Tecnico,Adjunto,Alta,6.0,30,8,69,7.7,3.8,Fin_Contrato
+EMP-284,Reproduccion Asistida,EMP-004,No,Temporal,Turno_Rotatorio,Tarde,01/11/2021,,Activo,42,55,Mujer,Master,Enfermero,Junior,Media,8.8,18,7,54,NULL,7.0,
+EMP-051,RADIOLOGIA,EMP-001,No,Indefinido,Presencial,Noche,02/08/2019,,Activo,70,39,Mujer,Master,Medico,Senior,Media,5.8,11,7,75,7.4,6.1,
+EMP-233,Laboratorio,EMP-016,No,Indefinido,PRESENCIAL,Mañana,14/01/2023,,Activo,28,52,Hombre,Master,Tecnico,Adjunto,Media,8.3,4,4,82,7.1,5.3,
+EMP-200,RRHH,EMP-001,No,Indefinido,Turno_Rotatorio,Rotatorio,15/01/2021,,Activo,52,61,Mujer,Medicina,Administrativo,Adjunto,Baja,7.1,8,6,96,8.0,8.0,
+EMP-027,Radiologia,EMP-018,No,Guardia,Turno_Rotatorio,Mañana,09/04/2020,,Activo,61,29,Mujer,FP_Sanitario,Enfermero,Senior,Baja,7.1,7,8,45,8.6,6.3,
+EMP-300,medicina interna,EMP-015,No,Temporal,Guardia 24h,Tarde,28/06/2022,26/09/2022,Baja,,57,hombre,Master,Administrativo,Junior,Baja,7.7,4,7,58,NULL,6.5,Fin_Contrato
+EMP-026,Medicina Interna,EMP-005,No,Indefinido,Turno_Rotatorio,Rotatorio,14/11/2022,08/01/2024,Baja,,41,Hombre,Medicina,Medico,Senior,Media,8.2,7,5,63,8.6,7.4,Voluntaria
+EMP-266,Laboratorio,EMP-013,No,Indefinido,Turno_Rotatorio,Mañana,16/02/2024,,Activo,14,25,Mujer,Medicina,Tecnico,Senior,Baja,8.0,10,1,74,7.0,7.3,
+EMP-296,Administracion,EMP-007,No,Indefinido,Turno_Rotatorio,Mañana,2021-07-02,11/02/2025,Baja,,42,Mujer,FP_Sanitario,Administrativo,Adjunto,Baja,9.0,7,6,75,7.2,6.7,Fin_Contrato
+EMP-151,Pediatria,EMP-005,No,Temporal,Presencial,Mañana,04/11/2023,30/08/2024,Baja,,37,Mujer,Medicina,Enfermero,Senior,Media,7.8,8,7,98,8.4,7.3,Voluntaria
+EMP-153,Administracion,EMP-014,No,Indefinido,Presencial,Noche,08/02/2022,28/02/2024,Baja,,30,Hombre,Grado_Enfermeria,Administrativo,Adjunto,Baja,7.0,4,4,54,6.4,8.7,Voluntaria
+EMP-271,Urgencias,EMP-011,No,Interinidad,Guardia_24h,Tarde,25/12/2022,16/08/2024,Baja,,36,Femenino,Medicina,Enfermero,Junior,Media,6.6,30,9,39,4.9,2.9,Despido
+EMP-121,urgencias,EMP-012,No,Guardia,Turno_Rotatorio,Tarde,18/02/2018,,Activo,87,61,Hombre,Grado_Enfermeria,Administrativo,Senior,Alta,5.1,24,12,52,2.0,4.6,
+EMP-110,Radiologia,EMP-004,No,Indefinido,Turno_Rotatorio,Mañana,13/03/2021,,Activo,50,28,Mujer,Master,Medico,Jefe_de_Servicio,Directiva,7.7,16,6,25,6.3,7.0,
+EMP-188,Reproducción Asistida,EMP-001,No,Indefinido,Guardia_24h,Rotatorio,17/10/2020,,Activo,55,60,Mujer,Master,Medico,Senior,Alta,6.8,18,8,72,6.1,4.5,
+EMP-269,Traumatologia,EMP-010,No,Indefinido,Presencial,Mañana,14/02/2021,,Activo,51,33,Hombre,Master,Enfermero,Senior,Alta,4.8,12,1,70,8.4,7.0,
+EMP-057,Pediatría,EMP-016,No,Indefinido,Guardia_24h,Mañana,10/07/2024,07/11/2024,Baja,,39,Hombre,Medicina,Medico,Adjunto,Directiva,7.2,9,6,65,8.0,7.8,Despido
+EMP-004,ginecologia y obstetricia,,Si,Guardia,Presencial,Rotatorio,24/10/2018,31/05/2023,Baja,,39,Mujer,Master,Medico,Senior,Media,8.3,14,2,67,7.5,5.5,Voluntaria
+EMP-209,cirugia,EMP-017,No,Temporal,Guardia_24h,Tarde,2022-06-09,,Activo,35,61,Hombre,Master,Medico,Adjunto,Baja,8.0,14,5,22,6.9,6.4,
+EMP-049,Ginecología y Obstetricia,EMP-013,No,Indefinido,Presencial,Tarde,02/11/2019,,Activo,67,27,Mujer,Medicina,Tecnico,Adjunto,Baja,5.9,13,7,79,10.0,7.5,
+EMP-255,Reproduccion Asistida,EMP-002,No,Temporal,Turno_Rotatorio,Tarde,01/02/2023,,Activo,27,45,Mujer,Grado_Enfermeria,Medico,Senior,Media,7.9,7,10,76,7.2,6.1,
+EMP-012,Reproduccion Asistida,,Si,Interinidad,Turno_Rotatorio,Tarde,24/12/2022,23/04/2023,Baja,,30,Mujer,Master,Medico,Senior,Media,8.1,19,7,72,6.7,5.4,
+EMP-205,Ginecologia y Obstetricia,EMP-007,No,Temporal,Turno_Rotatorio,Rotatorio,01/01/2021,,Activo,52,56,Mujer,Master,Auxiliar,Senior,Baja,6.2,16,8,74,7.2,6.8,
+EMP-184,Urgencias,EMP-009,No,Guardia,guardia_24h,Noche,21/06/2022,07/12/2024,Baja,,36,hombre,Doctorado,Enfermero,Senior,Alta,6.6,34,18,59,3.3,5.1,Fin_Contrato
+EMP-119,Ginecologia y Obstetricia,EMP-019,No,Indefinido,Presencial,Mañana,02/11/2023,25/01/2025,Baja,,58,Hombre,Medicina,Medico,Adjunto,Media,6.1,18,2,85,NULL,6.1,
+EMP-141,Ginecologia y Obstetricia,EMP-015,No,Temporal,Presencial,Rotatorio,04/11/2018,,Activo,79,59,Mujer,Master,Tecnico,Jefe_de_Servicio,Directiva,7.0,10,2,77,NULL,6.3,
+EMP-214,Oncologia,EMP-008,No,Indefinido,Guardia_24h,Rotatorio,25/11/2019,,Activo,66,34,hombre,Medicina,Medico,Senior,Alta,7.3,12,3,33,7.3,5.7,
+EMP-162,Ginecologia y Obstetricia,EMP-014,No,Indefinido,Turno_Rotatorio,Tarde,20/11/2022,09/03/2025,Baja,,39,M,Medicina,Medico,Senior,Baja,7.7,7,0,79,5.5,7.2,Fin_Contrato
+EMP-278,Reproduccion Asistida,EMP-018,No,Interinidad,Turno_Rotatorio,Tarde,28/01/2024,24/09/2024,Baja,,52,Mujer,Master,Tecnico,Adjunto,Media,6.7,27,7,32,8.2,5.0,
+EMP-183,Urgencias,EMP-008,No,Interinidad,Turno Rotatorio,Mañana,11/07/2021,,Activo,46,91,Hombre,Master,Medico,Senior,Media,6.5,26,7,13,6.1,5.7,
+EMP-211,Ginecologia y Obstetricia,EMP-020,No,Temporal,Guardia_24h,Rotatorio,12/03/2021,,Activo,50,41,Mujer,Doctorado,Medico,Adjunto,Media,7.9,9,3,95,6.9,8.4,
+EMP-033,Traumatologia,EMP-011,No,Interinidad,Turno_Rotatorio,Rotatorio,2020-11-05,,Activo,54,25,Hombre,Medicina,Medico,Junior,Alta,7.8,10,5,81,8.1,8.0,
+EMP-217,Administracion,EMP-010,No,Indefinido,Turno_Rotatorio,Tarde,30/09/2023,,Activo,19,30,Mujer,Medicina,Medico,Senior,Baja,9.3,9,5,60,NULL,7.6,
+EMP-212,Traumatologia,EMP-007,No,Interinidad,Turno_Rotatorio,Tarde,04/08/2020,,Activo,57,28,mujer,Master,Enfermero,Adjunto,Media,7.4,10,5,78,NULL,8.1,
+EMP-158,Ginecologia y Obstetricia,EMP-007,No,Guardia,Presencial,Noche,14/11/2021,,Activo,42,41,M,Medicina,Enfermero,Adjunto,Media,7.8,19,8,53,9.6,4.4,
+EMP-107,Ginecologia y Obstetricia,EMP-013,No,Temporal,Presencial,Tarde,2024-08-03,,Activo,9,31,Mujer,Master,Medico,Senior,Media,7.0,7,7,59,7.8,8.5,
+EMP-175,Medicina Interna,EMP-012,No,Indefinido,presencial,Mañana,24/07/2023,,Activo,21,47,Mujer,Medicina,Medico,Junior,Media,5.9,22,3,76,10.0,6.6,
+EMP-083,Traumatologia,EMP-005,No,Temporal,presencial,Mañana,08/12/2023,01/01/2025,Baja,,48,Mujer,Master,Enfermero,Senior,Media,7.0,23,4,59,NULL,6.1,Fin_Contrato
+EMP-180,Cirugia,EMP-003,No,Temporal,Presencial,Rotatorio,25/11/2022,13/04/2025,Baja,,49,Hombre,Medicina,Administrativo,Senior,Media,7.7,9,3,23,6.6,7.3,Voluntaria
+EMP-020,Laboratorio,,Si,Indefinido,Presencial,Mañana,07/07/2019,,Activo,71,25,Mujer,Doctorado,Tecnico,Senior,Baja,8.9,8,9,72,NULL,8.8,
+EMP-235,Cirugia,EMP-019,No,Temporal,Turno_Rotatorio,Tarde,22/10/2020,,Activo,55,31,Hombre,Master,Medico,Senior,Media,9.8,15,6,42,8.3,6.2,
+EMP-053,Laboratorio,EMP-006,No,Temporal,Presencial,Tarde,14/01/2023,05/10/2024,Baja,,49,Mujer,Master,Medico,Adjunto,Baja,7.2,12,3,37,9.4,5.9,Voluntaria
+EMP-195,traumatologia,EMP-008,No,Indefinido,Guardia 24h,Tarde,10/10/2023,,Activo,19,41,Mujer,Medicina,Medico,Junior,Media,7.2,11,5,78,9.0,6.7,
+EMP-256,Urgencias,EMP-001,No,Guardia,Guardia_24h,Tarde,27/11/2024,,Activo,5,58,Hombre,Grado_Enfermeria,Enfermero,Senior,Alta,6.6,22,22,50,5.0,2.9,
+EMP-283,Oncologia,EMP-009,No,Temporal,Turno_Rotatorio,Mañana,2021-05-08,,Activo,48,47,Mujer,Master,Administrativo,Senior,Alta,5.7,8,9,18,7.1,7.2,
+EMP-194,Pediatria,EMP-005,No,Indefinido,Presencial,Tarde,19/09/2021,,Activo,44,28,H,Master,Medico,Adjunto,Alta,6.2,14,7,88,5.8,7.9,
+EMP-136,Cirugia,EMP-001,No,Temporal,Turno_Rotatorio,Mañana,20/11/2023,,Activo,17,46,Mujer,Master,Medico,Adjunto,Baja,7.5,16,9,52,6.4,7.9,
+EMP-062,Ginecologia y Obs.,EMP-002,No,Indefinido,Turno_Rotatorio,Noche,21/05/2021,,Activo,48,45,Hombre,Master,Medico,Jefe_de_Servicio,Alta,5.5,180,11,51,6.7,5.7,
+EMP-293,RRHH,EMP-009,No,Indefinido,Turno_Rotatorio,Mañana,26/08/2019,13/12/2021,Baja,,60,Mujer,Master,Administrativo,Jefe_de_Servicio,Baja,8.7,0,3,59,8.9,8.5,Jubilacion
+EMP-156,RRHH,EMP-008,No,Guardia,Presencial,Tarde,28/01/2023,,Activo,27,38,Mujer,Grado_Enfermeria,Administrativo,Jefe_de_Servicio,Baja,9.7,14,3,92,NULL,8.0,
+EMP-091,Cirugia,EMP-015,No,Indefinido,Turno_Rotatorio,Noche,23/11/2024,,Activo,5,26,Hombre,Master,Medico,Junior,Alta,7.3,9,2,44,6.8,7.4,
+EMP-108,Pediatria,EMP-010,No,Temporal,turno_rotatorio,Tarde,17/01/2020,,Activo,64,47,Mujer,Medicina,Medico,Adjunto,Media,5.6,16,3,85,8.3,8.0,
+EMP-152,Urgencias,EMP-006,No,Guardia,Guardia_24h,Noche,12/10/2024,,Activo,6,42,Mujer,Grado_Enfermeria,Tecnico,Junior,Media,5.1,36,21,42,4.8,5.3,
+EMP-099,Pediatria,EMP-018,No,Indefinido,Guardia_24h,Tarde,11/09/2019,,Activo,68,31,mujer,Grado_Enfermeria,Tecnico,Adjunto,Media,7.4,11,2,67,7.8,8.3,
+EMP-120,Traumatologia,EMP-010,No,Indefinido,Guardia_24h,Tarde,12/01/2023,02/03/2025,Baja,,41,Masculino,Medicina,Medico,Junior,Baja,10.0,11,9,45,NULL,6.4,Fin_Contrato
+EMP-079,Traumatologia,EMP-017,No,Indefinido,Turno Rotatorio,Mañana,17/02/2024,13/03/2025,Baja,,49,hombre,Master,Tecnico,Adjunto,Media,8.7,11,5,86,NULL,5.7,Voluntaria
+EMP-089,Medicina Interna,EMP-014,No,Temporal,presencial,Rotatorio,22/06/2018,,Activo,83,37,Mujer,Medicina,Medico,Senior,Alta,6.6,11,6,88,5.5,8.1,
+EMP-174,Laboratorio,EMP-002,No,Indefinido,presencial,Rotatorio,17/06/2022,,Activo,35,36,Hombre,Grado_Enfermeria,Tecnico,Adjunto,Media,9.2,10,5,92,5.4,7.0,
+EMP-035,Radiologia,EMP-016,No,Indefinido,Presencial,Mañana,15/01/2018,,Activo,89,52,Hombre,Master,Tecnico,Senior,Directiva,9.4,9,5,30,8.1,6.3,
+EMP-213,Urgencias,EMP-018,No,Interinidad,Guardia_24h,Rotatorio,13/10/2024,,Activo,6,38,Hombre,Doctorado,Auxiliar,Junior,Media,6.1,35,10,40,3.5,3.4,
+EMP-111,Ginecologia y Obstetricia,EMP-007,No,Indefinido,Presencial,Tarde,07/12/2019,,Activo,66,44,Mujer,Medicina,Tecnico,Adjunto,Baja,8.4,13,5,60,9.6,6.1,
+EMP-275,urgencias,EMP-011,No,Temporal,Turno_Rotatorio,Rotatorio,26/04/2021,,Activo,49,34,Mujer,FP_Sanitario,Medico,Senior,Directiva,7.5,32,10,49,4.9,2.7,
+EMP-100,Medicina Interna,EMP-016,No,Indefinido,Guardia_24h,Rotatorio,31/03/2023,,Activo,25,53,Mujer,Master,Auxiliar,Junior,Baja,8.4,19,6,69,7.0,6.6,
+EMP-132,traumatologia,EMP-016,No,Guardia,Presencial,Tarde,04/10/2024,01/02/2025,Baja,,53,Hombre,Doctorado,Auxiliar,Senior,Baja,7.2,15,4,64,10.0,5.5,Despido
+EMP-254,RRHH,EMP-009,No,Indefinido,Presencial,Mañana,10/12/2023,,Activo,17,52,Hombre,Grado_Enfermeria,Auxiliar,Senior,Baja,7.9,11,7,73,NULL,8.3,
+EMP-157,Traumatologia,EMP-014,No,Guardia,Presencial,Mañana,06/02/2021,,Activo,51,46,Hombre,Medicina,Medico,Senior,Alta,6.0,7,6,72,5.5,7.5,
+EMP-215,Reproduccion Asistida,EMP-016,No,Temporal,PRESENCIAL,Rotatorio,31/01/2019,,Activo,76,56,Mujer,Doctorado,Enfermero,Senior,Alta,7.9,18,8,52,6.3,6.1,
+EMP-253,Oncologia,EMP-005,No,Temporal,Turno_Rotatorio,Mañana,07/06/2021,,Activo,47,32,Hombre,Master,Enfermero,Senior,Alta,5.8,21,4,17,9.5,7.1,
+EMP-125,Ginecologia y Obstetricia,EMP-020,No,Indefinido,PRESENCIAL,Mañana,11/12/2023,,Activo,17,34,Mujer,Medicina,Medico,Adjunto,Media,5.4,6,5,71,7.4,7.7,
+EMP-222,Ginecologia y Obstetricia,EMP-008,No,Indefinido,Presencial,Mañana,20/04/2021,,Activo,49,30,Hombre,Medicina,Medico,Senior,Media,6.2,0,11,86,8.5,8.0,
+EMP-038,Ginecologia y Obstetricia,EMP-008,No,Indefinido,Presencial,Tarde,14/06/2020,,Activo,59,53,Mujer,Doctorado,Tecnico,Adjunto,Baja,5.9,9,3,63,8.2,8.1,
+EMP-144,Pediatria,EMP-011,No,Indefinido,Turno_Rotatorio,Tarde,26/03/2021,19/07/2022,Baja,,33,M,Medicina,Auxiliar,Junior,Baja,7.2,13,3,75,8.4,6.4,
+EMP-130,URGENCIAS,EMP-015,No,Indefinido,Guardia_24h,Noche,2021-06-14,,Activo,47,33,Hombre,Master,Medico,Jefe_de_Servicio,Alta,5.3,15,7,45,NULL,4.8,
+EMP-075,Pediatria,EMP-008,No,Temporal,Presencial,Rotatorio,19/08/2019,,Activo,69,41,Mujer,Master,Enfermero,Jefe_de_Servicio,Alta,6.3,11,2,75,8.8,7.8,
+EMP-069,Traumatologia,EMP-013,No,Indefinido,Presencial,Mañana,2018-05-28,,Activo,84,53,Hombre,Master,Medico,Adjunto,Media,8.1,8,2,62,NULL,8.0,
+EMP-238,medicina interna,EMP-015,No,Indefinido,Presencial,Tarde,22/02/2024,,Activo,14,48,Hombre,Master,Medico,Senior,Alta,7.2,15,11,100,7.6,6.5,
+EMP-061,laboratorio,EMP-001,No,Indefinido,turno_rotatorio,Tarde,07/01/2021,,Activo,52,62,No_binario,Master,Medico,Junior,Baja,8.2,16,0,59,6.4,5.5,
+EMP-146,Ginecologia y Obstetricia,EMP-006,No,Indefinido,Presencial,Rotatorio,05/08/2021,,Activo,45,30,Mujer,Master,Medico,Junior,Media,6.0,12,7,54,9.5,8.4,
+EMP-237,Ginecologia y Obstetricia,EMP-011,No,Interinidad,Presencial,Mañana,17/09/2020,,Activo,56,61,Hombre,Doctorado,Administrativo,Adjunto,Media,7.7,9,9,78,6.5,6.4,
+EMP-189,Traumatologia,EMP-010,No,Indefinido,Presencial,Rotatorio,05/06/2022,,Activo,35,53,Mujer,Medicina,Medico,Adjunto,Media,5.9,2,6,90,8.1,6.5,
+EMP-002,Ginecologia y Obstetricia,,Si,Indefinido,Presencial,Tarde,21/10/2019,,Activo,67,54,mujer,Doctorado,Medico,Adjunto,Alta,7.6,7,3,79,7.6,7.7,
+EMP-163,Pediatria,EMP-020,No,Guardia,Presencial,Tarde,05/02/2022,31/01/2023,Baja,,48,Mujer,FP_Sanitario,Enfermero,Adjunto,Alta,9.1,13,5,99,9.4,8.0,Fin_Contrato
+EMP-103,Traumatologia,EMP-014,No,Interinidad,Turno_Rotatorio,Noche,18/01/2019,05/08/2021,Baja,,48,Mujer,Medicina,Tecnico,Senior,Alta,7.8,4,7,72,7.5,6.8,Voluntaria
+EMP-078,Pediatría,EMP-003,No,Indefinido,Presencial,Mañana,09/10/2022,27/12/2024,Baja,,58,Mujer,Medicina,Auxiliar,Jefe_de_Servicio,Baja,6.3,10,9,97,5.9,6.9,Voluntaria
+EMP-164,Pediatria,EMP-014,No,Temporal,presencial,Rotatorio,27/05/2018,,Activo,84,48,Mujer,Medicina,Medico,Senior,Alta,8.1,14,5,57,NULL,7.1,
+EMP-249,Ginecologia y Obstetricia,EMP-011,No,Indefinido,Presencial,Tarde,01/04/2019,27/11/2019,Baja,,30,Mujer,Doctorado,Tecnico,Junior,Media,5.7,6,7,68,NULL,8.0,Voluntaria
+EMP-191,Cirugia,EMP-006,No,Temporal,Presencial,Tarde,03/11/2022,,Activo,30,46,Mujer,Medicina,Tecnico,Jefe_de_Servicio,Media,10.0,6,6,30,NULL,8.0,
+EMP-048,Pediatria,EMP-005,No,Indefinido,Presencial,Mañana,07/10/2019,13/04/2024,Baja,,54,Hombre,Medicina,Enfermero,Jefe_de_Servicio,Directiva,7.5,19,6,53,9.6,7.3,Jubilacion
+EMP-131,Medicina Interna,EMP-003,No,Indefinido,Presencial,Rotatorio,22/09/2018,,Activo,80,28,Mujer,Doctorado,Medico,Junior,Media,7.3,7,6,60,8.0,5.3,
+EMP-281,URGENCIAS,EMP-014,No,Interinidad,Turno_Rotatorio,Noche,2021-01-20,14/02/2022,Baja,,29,Hombre,FP_Sanitario,Enfermero,Adjunto,Media,6.8,27,13,19,5.3,5.7,Voluntaria
+EMP-016,Pediatria,,Si,Indefinido,Presencial,Tarde,29/01/2020,,Activo,64,27,Hombre,Medicina,Medico,Jefe_de_Servicio,Directiva,7.1,8,8,96,NULL,8.8,
+EMP-159,Medicina Interna,EMP-001,No,Indefinido,Presencial,Mañana,14/04/2023,,Activo,25,48,Mujer,Medicina,Medico,Adjunto,Baja,8.9,0,0,57,8.4,4.7,
+EMP-206,Radiologia,EMP-001,No,Indefinido,PRESENCIAL,Tarde,10/06/2020,,Activo,59,44,Mujer,Master,Tecnico,Adjunto,Media,7.3,22,6,55,7.8,6.2,
+EMP-168,Medicina Interna,EMP-015,No,Indefinido,Turno_Rotatorio,Mañana,09/05/2023,,Activo,24,46,Hombre,Medicina,Medico,Senior,Media,6.9,13,6,92,NULL,8.6,
+EMP-218,Reproduccion Asistida,EMP-019,No,Indefinido,Turno_Rotatorio,Mañana,29/07/2021,20/05/2023,Baja,,40,Mujer,Medicina,Enfermero,Jefe_de_Servicio,Directiva,6.8,16,13,56,7.9,4.3,Jubilacion
