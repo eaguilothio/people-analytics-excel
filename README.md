@@ -36,7 +36,11 @@ La idea era tener suficiente información para poder hacerme hipótesis.
 
 ## ¿Qué herramientas usé y por qué?
 
-- **Excel** — Es la herramienta estándar en muchas empresas — no todas usan Python.
+- **Excel** 
+
+Es una de las herramientas de análisis de datos más utilizadas en el entorno empresarial, por lo que resulta relevante trabajar con ella.
+Permite realizar un análisis de datos de forma eficiente sin necesidad de programación avanzada.
+El objetivo principal del proyecto era desarrollar un buen análisis de datos y extraer conclusiones útiles, más que centrarse en la creación de visualizaciones.
 
 ---
 
